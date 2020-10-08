@@ -11,49 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ms.c. in Computer Science, King's College London, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017, Summer 2018: Software Research
+  * King's College London
+  * In 2017, I was a part of a group developing the first-pass of an agent-based simulation of ED processes from a set of interviews, background research and meetings with hospital staff. \n
+In 2018, I then developed the simulation into an extensible framework called 'SimEngine' to allow for further ED simulations to be built – including for future student projects. I was involved in collaborative design and development of the model from fieldwork reports and meetings with a hospital doctor. I was involved in the development of the simulation platform, the human-focused interfaces to the ABM, and collaborating on simulation-code generation for the framework using Sirius modelling.
+  * Supervisors: Dr. Simon Miles and Dr. Steffen Zschaler
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
